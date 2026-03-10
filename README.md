@@ -1,16 +1,85 @@
-# Introduction to GitHub
+👋 Hi, I'm Arjeet Kumar
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+🎓 BS in Computer Science & Data Analytics
+📍 IIT Patna | India
 
-Hey Arjeetkumar!
+I am passionate about Data Science, Artificial Intelligence, and building impactful tech products.
+I love turning ideas into real-world projects using Python, Machine Learning, and Web Technologies.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+🚀 About Me
 
-Remember, it's self-paced so feel free to take a break! ☕️
+🎓 BS Student at IIT Patna (2024–2027)
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Arjeetkumar/ARJEETKUMAR/issues/1)
+📊 Interested in Data Science, Machine Learning & AI
 
----
+💻 Skilled in Python, C++, Data Analysis
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+🧠 Love building AI-powered projects
 
+📈 Currently learning Advanced Data Science & Full Stack Development
+
+🚀 Goal: Build products that solve real-world problems
+
+🛠️ Skills
+
+Programming Languages
+
+Python
+
+C++
+
+JavaScript
+
+HTML / CSS
+
+Technologies & Tools
+
+Machine Learning
+
+Data Visualization
+
+Git & GitHub
+
+VS Code
+
+Web Development
+
+📂 Projects
+🔹 Sign Speaks
+
+Real-time Sign Language to Speech Converter using AI and Computer Vision.
+
+🔹 StudyPing
+
+A student platform designed to help learners collaborate and share resources.
+🌐 https://studyping.netlify.app/
+
+🔹 Parivartan Prayas Foundation Website
+
+Website developed for a social impact organization.
+🌐 https://parivartanprayasfoundation.org/
+
+🔹 Skillora
+
+Freelancing platform designed for freshers and students to find opportunities.
+
+🏆 Achievements
+
+🥇 9.18 CGPA in First Year at IIT Patna
+
+💻 Participated in Hack & Tech 2.0 Hackathon
+
+🚀 Built multiple real-world projects
+
+🌐 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/arjeet-kumar-3851931b6
+
+💻 GitHub
+https://github.com/Arjeetkumar
+
+📧 Email
+arjeetkumar5389@gmail.com
+
+⭐ “Always learning, always building.”
